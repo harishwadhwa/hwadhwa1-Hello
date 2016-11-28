@@ -17,7 +17,7 @@ public class HelloWorldServlet extends HttpServlet {
 
 		// Step 5.  Now "print" the information back to the client
 		out.print("<html>");
-		out.print("<head><title>Hello World</title></head>");
+		out.print("<head><title>Harish Hello World</title></head>");
 		out.print("<body>");
 		out.print("<h1>Hello World</h1>");
 		out.print("Current time is " + new java.util.Date());
