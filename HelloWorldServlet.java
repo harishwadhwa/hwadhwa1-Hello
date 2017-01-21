@@ -22,5 +22,6 @@ public class HelloWorldServlet extends HttpServlet {
 		out.print("<h1>Hello World</h1>");
 		out.print("Current time is " + new java.util.Date());
 		out.println("</body></html>");
+		out.println("Imported from hwadhwa1. Lets test harishwadhwa from hwadhwa1")
 	}
 }
